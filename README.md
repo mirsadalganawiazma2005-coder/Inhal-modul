@@ -1,9 +1,6 @@
-# Inhal-modul
-#KERENIFY  
-Kerenkan hidupmu  
-Kelompok Keren  
+INHAL MODUL  
 Ketua Kelompok:  
-Anggota 1:  
-Anggota 2:  
-Anggota 3:  
-Anggota 4:  
+Anggota 1: Fadel
+Anggota 2:  kevin
+Anggota 3:  mirsad
+Anggota 4:  bintang
